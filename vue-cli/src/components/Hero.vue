@@ -1,7 +1,7 @@
 <template>
     <div class="hero">
         <div class="heroImg">
-            <img src="https://picsum.photos/700/400" alt="jj"> 
+            <img src="https://picsum.photos/1000/400" alt="jj"> 
         </div>
     </div>
 </template>
